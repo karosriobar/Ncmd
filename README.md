@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/oscarbarrio-ferreiro/ca6e0121-de54-4cda-ae0c-c1b695920728/0cfbfc9d-f212-4b74-b206-b7c5acb715c1/_apis/work/boardbadge/32bc080a-2edf-4d5d-8a41-813264db7d7f)](https://dev.azure.com/oscarbarrio-ferreiro/ca6e0121-de54-4cda-ae0c-c1b695920728/_boards/board/t/0cfbfc9d-f212-4b74-b206-b7c5acb715c1/Microsoft.RequirementCategory)
 # Ncmd
 A library to support standard command line options on .NET programs
 
